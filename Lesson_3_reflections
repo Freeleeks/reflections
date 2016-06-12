@@ -8,3 +8,12 @@ and even more so for larger programming task at a bigger work place.
 Why might you want to always pull changes manually rather then having git automatically stat up to date with your remote repository=
 
 Because maybe you are working on something on your local machine and do not want it updated to the master that is online. 
+
+
+Describe the differences between forks,clonse,braches. when would use one instead of the other
+
+clone: pull from the internet to your local. used when taking some code online
+
+fork: when you clone a repository but you keep it on your github page. used when working together on a project online and keeps track of who originally started the repository. 
+
+branches: created on 1 repository on your local machine. is used so that you can track and modify the code without change or causing a errors in your naster ( good code).
