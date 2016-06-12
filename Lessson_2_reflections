@@ -5,3 +5,39 @@ repository ? why do you need to do it?
 It creates a new repository in the target locations
 It is a starting repository for you to commit your 
 programs too.
+
+
+How can you sue the staging area to make sure you have one commit per lgical change
+
+it allows you to choose what you want to commit and to 
+help you from moving to many chnages at 1 time.
+
+
+
+
+What are some situations when branches would be helpful in keeping your history organized? How would bracnhes help
+
+`Use a branch to creat a offshoot of your program such as when you want to add another langue or do something big to the code.
+
+They help by creating a nice safe zone to work on the app with out muckuing up the master and aslo allowing for multi market deployment
+
+
+
+How do the diagrams help you visualize the branch structre?
+
+
+They help to keep track of then the branchs split and what they do and do not contain.
+
+
+
+What is the result of merging two branches together? why do we represent it in the diagram the way we do?
+
+it takes the newly added functionality or other stuffs and adds it to the master. 
+
+because then you see that the commits behind the branch will no longer be there. 
+
+What are the pros and cons of GITS automatic merging vs always doing it maunally?
+
+well git auto can help speed up the process of adding code and easly point out where coding conflicts are. 
+
+
