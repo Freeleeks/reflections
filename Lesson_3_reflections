@@ -17,3 +17,8 @@ clone: pull from the internet to your local. used when taking some code online
 fork: when you clone a repository but you keep it on your github page. used when working together on a project online and keeps track of who originally started the repository. 
 
 branches: created on 1 repository on your local machine. is used so that you can track and modify the code without change or causing a errors in your naster ( good code).
+
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+if something happens to the github repository and there is some type of issue with the program it would be good to have the one saved locally. plus you can look through and see changes. 
